@@ -5,3 +5,4 @@ c:\GIT\PRACTICE\practice\WCF\WCFMyServiceLibrary\WindowsFormsApplication\obj\Deb
 c:\GIT\PRACTICE\practice\WCF\WCFMyServiceLibrary\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.csproj.GenerateResource.Cache
 c:\GIT\PRACTICE\practice\WCF\WCFMyServiceLibrary\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.exe
 c:\GIT\PRACTICE\practice\WCF\WCFMyServiceLibrary\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.pdb
+c:\GIT\PRACTICE\practice\WCF\WCFMyServiceLibrary\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.Form1.resources
