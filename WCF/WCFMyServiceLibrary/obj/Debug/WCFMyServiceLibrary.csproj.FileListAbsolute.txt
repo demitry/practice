@@ -1,0 +1,4 @@
+c:\GIT\PRACTICE\practice\WCF\WCFMyServiceLibrary\bin\Debug\WCFMyServiceLibrary.dll
+c:\GIT\PRACTICE\practice\WCF\WCFMyServiceLibrary\bin\Debug\WCFMyServiceLibrary.pdb
+c:\GIT\PRACTICE\practice\WCF\WCFMyServiceLibrary\obj\Debug\WCFMyServiceLibrary.dll
+c:\GIT\PRACTICE\practice\WCF\WCFMyServiceLibrary\obj\Debug\WCFMyServiceLibrary.pdb

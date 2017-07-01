@@ -1,0 +1,8 @@
+c:\GIT\PRACTICE\practice\WCF\WindowsServiceHostForMyService\bin\Debug\WindowsServiceHostForMyService.exe.config
+c:\GIT\PRACTICE\practice\WCF\WindowsServiceHostForMyService\bin\Debug\WindowsServiceHostForMyService.exe
+c:\GIT\PRACTICE\practice\WCF\WindowsServiceHostForMyService\bin\Debug\WindowsServiceHostForMyService.pdb
+c:\GIT\PRACTICE\practice\WCF\WindowsServiceHostForMyService\obj\Debug\WindowsServiceHostForMyService.csprojResolveAssemblyReference.cache
+c:\GIT\PRACTICE\practice\WCF\WindowsServiceHostForMyService\obj\Debug\WindowsServiceHostForMyService.exe
+c:\GIT\PRACTICE\practice\WCF\WindowsServiceHostForMyService\obj\Debug\WindowsServiceHostForMyService.pdb
+c:\GIT\PRACTICE\practice\WCF\WindowsServiceHostForMyService\bin\Debug\WCFMyServiceLibrary.dll
+c:\GIT\PRACTICE\practice\WCF\WindowsServiceHostForMyService\bin\Debug\WCFMyServiceLibrary.pdb
