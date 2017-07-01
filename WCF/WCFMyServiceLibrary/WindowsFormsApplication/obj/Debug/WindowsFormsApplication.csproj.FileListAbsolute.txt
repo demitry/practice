@@ -1,0 +1,7 @@
+c:\GIT\PRACTICE\practice\WCF\WCFMyServiceLibrary\WindowsFormsApplication\bin\Debug\WindowsFormsApplication.exe.config
+c:\GIT\PRACTICE\practice\WCF\WCFMyServiceLibrary\WindowsFormsApplication\bin\Debug\WindowsFormsApplication.exe
+c:\GIT\PRACTICE\practice\WCF\WCFMyServiceLibrary\WindowsFormsApplication\bin\Debug\WindowsFormsApplication.pdb
+c:\GIT\PRACTICE\practice\WCF\WCFMyServiceLibrary\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.Properties.Resources.resources
+c:\GIT\PRACTICE\practice\WCF\WCFMyServiceLibrary\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.csproj.GenerateResource.Cache
+c:\GIT\PRACTICE\practice\WCF\WCFMyServiceLibrary\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.exe
+c:\GIT\PRACTICE\practice\WCF\WCFMyServiceLibrary\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.pdb

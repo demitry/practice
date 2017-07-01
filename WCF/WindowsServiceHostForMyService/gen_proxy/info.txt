@@ -1,0 +1,43 @@
+Microsoft (R) .NET Framework Installation utility Version 4.6.1586.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the c:\GIT\PRACTICE\practice\WCF\WindowsServiceHostForMyService\bin\Debug\WindowsServiceHostForMyService.exe assembly's progress.
+The file is located at c:\GIT\PRACTICE\practice\WCF\WindowsServiceHostForMyService\bin\Debug\WindowsServiceHostForMyService.InstallLog.
+Installing assembly 'c:\GIT\PRACTICE\practice\WCF\WindowsServiceHostForMyService\bin\Debug\WindowsServiceHostForMyService.exe'.
+Affected parameters are:
+   logtoconsole =
+   logfile = c:\GIT\PRACTICE\practice\WCF\WindowsServiceHostForMyService\bin\Debug\WindowsServiceHostForMyService.InstallLog
+   assemblypath = c:\GIT\PRACTICE\practice\WCF\WindowsServiceHostForMyService\bin\Debug\WindowsServiceHostForMyService.exe
+Installing service WindowsServiceHostForMyService...
+Service WindowsServiceHostForMyService has been successfully installed.
+Creating EventLog source WindowsServiceHostForMyService in log Application...
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the c:\GIT\PRACTICE\practice\WCF\WindowsServiceHostForMyService\bin\Debug\WindowsServiceHostForMyService.exe assembly's progress.
+The file is located at c:\GIT\PRACTICE\practice\WCF\WindowsServiceHostForMyService\bin\Debug\WindowsServiceHostForMyService.InstallLog.
+Committing assembly 'c:\GIT\PRACTICE\practice\WCF\WindowsServiceHostForMyService\bin\Debug\WindowsServiceHostForMyService.exe'.
+Affected parameters are:
+   logtoconsole =
+   logfile = c:\GIT\PRACTICE\practice\WCF\WindowsServiceHostForMyService\bin\Debug\WindowsServiceHostForMyService.InstallLog
+   assemblypath = c:\GIT\PRACTICE\practice\WCF\WindowsServiceHostForMyService\bin\Debug\WindowsServiceHostForMyService.exe
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+
+
+"C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.6.1 Tools\SvcUtil.exe"  http://localhost:9001/MyService  /out:MyServiceProxy.cs  /config:App.config
+Microsoft (R) Service Model Metadata Tool
+[Microsoft (R) Windows (R) Communication Foundation, Version 4.6.1055.0]
+Copyright (c) Microsoft Corporation.  All rights reserved.
+
+Attempting to download metadata from 'http://localhost:9001/MyService' using WS-Metadata Exchange or DISCO.
+Generating files...
+c:\GIT\PRACTICE\practice\WCF\WindowsServiceHostForMyService\bin\Debug\MyServiceProxy.cs
+c:\GIT\PRACTICE\practice\WCF\WindowsServiceHostForMyService\bin\Debug\App.config

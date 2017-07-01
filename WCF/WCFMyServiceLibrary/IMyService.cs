@@ -3,7 +3,7 @@
 namespace WCFMyServiceLibrary
 {
     [ServiceContract]
-    interface IMyService
+    public interface IMyService
     {
         [OperationContract]
         string Method1(string x);

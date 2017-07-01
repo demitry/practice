@@ -1,0 +1,45 @@
+﻿Installing assembly 'c:\GIT\PRACTICE\practice\WCF\WindowsServiceHostForMyService\bin\Debug\WindowsServiceHostForMyService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = c:\GIT\PRACTICE\practice\WCF\WindowsServiceHostForMyService\bin\Debug\WindowsServiceHostForMyService.InstallLog
+   assemblypath = c:\GIT\PRACTICE\practice\WCF\WindowsServiceHostForMyService\bin\Debug\WindowsServiceHostForMyService.exe
+Installing service WindowsServiceHostForMyService...
+Creating EventLog source WindowsServiceHostForMyService in log Application...
+Rolling back assembly 'c:\GIT\PRACTICE\practice\WCF\WindowsServiceHostForMyService\bin\Debug\WindowsServiceHostForMyService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = c:\GIT\PRACTICE\practice\WCF\WindowsServiceHostForMyService\bin\Debug\WindowsServiceHostForMyService.InstallLog
+   assemblypath = c:\GIT\PRACTICE\practice\WCF\WindowsServiceHostForMyService\bin\Debug\WindowsServiceHostForMyService.exe
+Restoring event log to previous state for source WindowsServiceHostForMyService.
+An exception occurred during the Rollback phase of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: The source was not found, but some or all event logs could not be searched.  Inaccessible logs: Security.
+An exception occurred during the Rollback phase of the installation. This exception will be ignored and the rollback will continue. However, the machine might not fully revert to its initial state after the rollback is complete.
+Installing assembly 'c:\GIT\PRACTICE\practice\WCF\WindowsServiceHostForMyService\bin\Debug\WindowsServiceHostForMyService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = c:\GIT\PRACTICE\practice\WCF\WindowsServiceHostForMyService\bin\Debug\WindowsServiceHostForMyService.InstallLog
+   assemblypath = c:\GIT\PRACTICE\practice\WCF\WindowsServiceHostForMyService\bin\Debug\WindowsServiceHostForMyService.exe
+Installing service WindowsServiceHostForMyService...
+Creating EventLog source WindowsServiceHostForMyService in log Application...
+Rolling back assembly 'c:\GIT\PRACTICE\practice\WCF\WindowsServiceHostForMyService\bin\Debug\WindowsServiceHostForMyService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = c:\GIT\PRACTICE\practice\WCF\WindowsServiceHostForMyService\bin\Debug\WindowsServiceHostForMyService.InstallLog
+   assemblypath = c:\GIT\PRACTICE\practice\WCF\WindowsServiceHostForMyService\bin\Debug\WindowsServiceHostForMyService.exe
+Restoring event log to previous state for source WindowsServiceHostForMyService.
+An exception occurred during the Rollback phase of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: The source was not found, but some or all event logs could not be searched.  Inaccessible logs: Security.
+An exception occurred during the Rollback phase of the installation. This exception will be ignored and the rollback will continue. However, the machine might not fully revert to its initial state after the rollback is complete.
+Installing assembly 'c:\GIT\PRACTICE\practice\WCF\WindowsServiceHostForMyService\bin\Debug\WindowsServiceHostForMyService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = c:\GIT\PRACTICE\practice\WCF\WindowsServiceHostForMyService\bin\Debug\WindowsServiceHostForMyService.InstallLog
+   assemblypath = c:\GIT\PRACTICE\practice\WCF\WindowsServiceHostForMyService\bin\Debug\WindowsServiceHostForMyService.exe
+Installing service WindowsServiceHostForMyService...
+Service WindowsServiceHostForMyService has been successfully installed.
+Creating EventLog source WindowsServiceHostForMyService in log Application...
+Committing assembly 'c:\GIT\PRACTICE\practice\WCF\WindowsServiceHostForMyService\bin\Debug\WindowsServiceHostForMyService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = c:\GIT\PRACTICE\practice\WCF\WindowsServiceHostForMyService\bin\Debug\WindowsServiceHostForMyService.InstallLog
+   assemblypath = c:\GIT\PRACTICE\practice\WCF\WindowsServiceHostForMyService\bin\Debug\WindowsServiceHostForMyService.exe

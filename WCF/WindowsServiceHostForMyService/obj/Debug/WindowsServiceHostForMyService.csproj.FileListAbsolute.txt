@@ -6,3 +6,5 @@ c:\GIT\PRACTICE\practice\WCF\WindowsServiceHostForMyService\obj\Debug\WindowsSer
 c:\GIT\PRACTICE\practice\WCF\WindowsServiceHostForMyService\obj\Debug\WindowsServiceHostForMyService.pdb
 c:\GIT\PRACTICE\practice\WCF\WindowsServiceHostForMyService\bin\Debug\WCFMyServiceLibrary.dll
 c:\GIT\PRACTICE\practice\WCF\WindowsServiceHostForMyService\bin\Debug\WCFMyServiceLibrary.pdb
+c:\GIT\PRACTICE\practice\WCF\WindowsServiceHostForMyService\obj\Debug\WindowsServiceHostForMyService.MyServiceInstaller.resources
+c:\GIT\PRACTICE\practice\WCF\WindowsServiceHostForMyService\obj\Debug\WindowsServiceHostForMyService.csproj.GenerateResource.Cache
